@@ -1,0 +1,12 @@
+# Compiled binaries
+*.out
+*.o
+huffman_serial
+huffman_parallel
+
+# Results
+results/*.txt
+
+# Temporary files
+*.log
+*.tmp
