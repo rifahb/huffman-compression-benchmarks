@@ -31,3 +31,7 @@ Generate plots:
 ```
 python3 plot.py
 ```
+
+## Example plot
+![Compression Plot](compression_plot.png)  
+*Figure 1: Huffman compression time comparison*
